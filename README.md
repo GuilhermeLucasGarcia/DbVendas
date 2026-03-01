@@ -8,6 +8,8 @@ O banco de dados utilizado na simulação é o `dbVendas`. Foram geradas notas f
 
 A política de backups foi estruturada da seguinte forma, sendo armazenada em um único arquivo `.BAK` diário:
 
+<img width="1024" height="474" alt="image" src="https://github.com/user-attachments/assets/50571018-aec4-4f5c-bfd9-631e98f79f4c" />
+
 | ID | Nome do Backup | Tipo | Horário | Notas Salvas (Simulação) |
 |----|----------------|------|---------|--------------------------|
 | 1  | BACKUP 1 AM | **FULL** | 01:00 | 3453 |
